@@ -1,3 +1,3 @@
 package com.example.quotify
 
-data class Quote(val text : String, val Author: String)
+data class Quote(val text : String, val author: String)
